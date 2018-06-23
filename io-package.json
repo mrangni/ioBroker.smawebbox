@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "template",
+        "name": "SMAWebbox Adapter",
         "version": "0.0.1",
         "news": {
             "0.1.0": {
@@ -14,10 +14,10 @@
                 "es": "Soporte de admin3"
             }
         },
-		"title": "smawebbox adapter",
+		"title": "SMA-Webbox Adapter",
         "titleLang": {
-            "en": "smawebbox adapter",
-            "de": "smawebbox adapter",
+            "en": "SMA-Webbox Adapter",
+            "de": "SMA-Webbox Adapter",
             "ru": "Адаптер шаблонов на основе Javascript / Node.js",
             "pt": "Adaptador de modelo baseado em Javascript / Node.js",
             "nl": "Javascript / Node.js gebaseerde sjabloonadapter",
@@ -26,8 +26,8 @@
             "es": "Adaptador de plantilla basado en JavaScript / Node.js"
         },
         "desc": {
-            "en": "smawebbox adapter",
-            "de": "smawebbox adapter",
+            "en": "SMA-Webbox Adapter",
+            "de": "SMA-Webbox Adapter",
             "ru": "ioBroker Template драйвер как образец",
             "pt": "Modelo de adaptador para o ioBroker",
             "fr": "ioBroker adaptateur modèle",
@@ -60,8 +60,7 @@
         "loglevel": "info",
         "type": "general",
         "license": "MIT",
-        "messagebox": false,
-        "restartAdapters": ["vis"]
+        "messagebox": false
     },
     "native": {
         "test1": true,
