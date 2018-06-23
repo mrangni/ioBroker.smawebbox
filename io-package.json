@@ -3,7 +3,11 @@
         "name": "smawebbox",
         "version": "0.0.1",
         "news": {
-            "0.0.1": {
+            	"0.0.3": {
+			"en": "start config",
+		 	"de": "beginn der Konfiguration" 
+			},
+		"0.0.1": {
                 "en": "initial adapter",
                 "de": "Initiale Version"
             }
@@ -25,7 +29,7 @@
         },
         "platform": "Javascript/Node.js",
         "mode": "schedule",
-        "schedule": "*/5 * * * *",
+        "schedule": "*/2 * * * *",
         "icon": "smawebbox.png",
         "materialize": true,
         "enabled": true,		
