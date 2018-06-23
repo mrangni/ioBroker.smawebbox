@@ -21,7 +21,7 @@
             "Markus Rangnick <m.rangnick@me.com>"
         ],
         "docs": {
-            "en": "docs/en/admin.md"
+            "en": "docs/en/template.md"
         },
         "platform": "Javascript/Node.js",
         "mode": "schedule",
