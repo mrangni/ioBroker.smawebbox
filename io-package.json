@@ -5,48 +5,23 @@
         "news": {
             "0.1.0": {
                 "en": "Support of admin3",
-                "de": "Unterstützung von admin3",
-                "ru": "Поддержка admin3",
-                "pt": "Suporte de admin3",
-                "nl": "Ondersteuning van admin3",
-                "fr": "Support de admin3",
-                "it": "Supporto di admin3",
-                "es": "Soporte de admin3"
-            }
+                "de": "Unterstützung von admin3"
+                     }
         },
 		"title": "SMA-Webbox Adapter",
         "titleLang": {
             "en": "SMA-Webbox Adapter",
-            "de": "SMA-Webbox Adapter",
-            "ru": "Адаптер шаблонов на основе Javascript / Node.js",
-            "pt": "Adaptador de modelo baseado em Javascript / Node.js",
-            "nl": "Javascript / Node.js gebaseerde sjabloonadapter",
-            "fr": "Javascript / Node.js basé adaptateur de modèle",
-            "it": "Adattatore modello basato su Javascript / Node.js",
-            "es": "Adaptador de plantilla basado en JavaScript / Node.js"
+            "de": "SMA-Webbox Adapter"
         },
         "desc": {
             "en": "SMA-Webbox Adapter",
             "de": "SMA-Webbox Adapter",
-            "ru": "ioBroker Template драйвер как образец",
-            "pt": "Modelo de adaptador para o ioBroker",
-            "fr": "ioBroker adaptateur modèle",
-            "nl": "ioBroker Template Adapter",
-            "it": "Adattatore modello ioBroker",
-            "es": "Adaptador de plantilla ioBroker"
         },
         "authors": [
             "Markus Rangnick <m.rangnick@me.com>"
         ],
         "docs": {
-            "en": "docs/en/admin.md",
-            "ru": "docs/ru/admin.md",
-            "de": "docs/de/admin.md",
-            "es": "docs/es/admin.md",
-            "it": "docs/it/admin.md",
-            "fr": "docs/fr/admin.md",
-            "nl": "docs/nl/admin.md",
-            "pt": "docs/pt/admin.md"
+            "en": "docs/en/admin.md"
         },
         "platform": "Javascript/Node.js",
         "mode": "schedule",
@@ -56,7 +31,7 @@
         "enabled": true,
         "extIcon": "https://raw.githubusercontent.com/mrangni/ioBroker.smawebbox/master/admin/smawebbox.png",
         "keywords": ["smawebbox", "vis", "GUI", "graphical", "scada"],
-        "readme": "https://github.com/mrangni/ioBroker.template/blob/master/README.md",
+        "readme": "https://github.com/mrangni/ioBroker.smawebbox/blob/master/README.md",
         "loglevel": "info",
         "type": "general",
         "license": "MIT",
