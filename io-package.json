@@ -1,41 +1,42 @@
 {
     "common": {
-        "name": "SMAWebbox Adapter",
+        "name": "smawebbox",
         "version": "0.0.1",
         "news": {
-            "0.1.0": {
-                "en": "Support of admin3",
-                "de": "Unterstützung von admin3"
-                     }
+            "0.0.1": {
+                "en": "initial adapter",
+                "de": "Initiale Version"
+            }
         },
-		"title": "SMA-Webbox Adapter",
+		"title": "SMA Webbox adapter",
         "titleLang": {
-            "en": "SMA-Webbox Adapter",
-            "de": "SMA-Webbox Adapter"
+            "en": "SMA Webbox adapter",
+            "de": "SMA Webbox adapter"
         },
         "desc": {
-            "en": "SMA-Webbox Adapter",
-            "de": "SMA-Webbox Adapter",
+            "en": "ioBroker SMA Webbox Adapter",
+            "de": "ioBroker SMA Webbox Adapter"
         },
         "authors": [
             "Markus Rangnick <m.rangnick@me.com>"
         ],
         "docs": {
-            "en": "docs/en/template.md"
+            "en": "docs/en/admin.md"
         },
         "platform": "Javascript/Node.js",
         "mode": "schedule",
         "schedule": "*/5 * * * *",
         "icon": "smawebbox.png",
         "materialize": true,
-        "enabled": true,
+        "enabled": true,		
         "extIcon": "https://raw.githubusercontent.com/mrangni/ioBroker.smawebbox/master/admin/smawebbox.png",
-        "keywords": ["smawebbox", "vis", "GUI", "graphical", "scada"],
+        "keywords": ["smawebbox", "GUI", "graphical", "scada"],
         "readme": "https://github.com/mrangni/ioBroker.smawebbox/blob/master/README.md",
         "loglevel": "info",
         "type": "general",
         "license": "MIT",
-        "messagebox": false
+        "messagebox": false,
+        "restartAdapters": ["vis"]
     },
     "native": {
         "test1": true,

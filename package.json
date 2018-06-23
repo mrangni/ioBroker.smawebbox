@@ -9,8 +9,8 @@
   "contributors": [
     {
       "name": "Markus Rangnick",
-    "email": "m.rangnick@me.com"
-     }
+      "email": "m.rangnick@me.com"
+    }
   ],
   "homepage": "https://github.com/mrangni/ioBroker.smawebbox",
   "license": "MIT",
