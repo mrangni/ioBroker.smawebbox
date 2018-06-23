@@ -1,9 +1,8 @@
 {
-  "Auto": "Auto",
-  "Manual": "Manual",
-  "My select": "Mein Auswahl",
-  "on save adapter restarts with new config immediately": "Beim Speichern von Einstellungen der Adapter wird sofort neu gestartet.",
-  "template adapter settings": "Beispiel",
-  "test1": "Test 1",
-  "test2": "Test 2"
+ "Sensor Type": "Sensor-Typ",
+  "local": "lokal",
+  "Remote": "remote",
+  "Sensor Identifier": "Sensor Kennung",
+  "IP of SMA Wenbox": "IP Adresse der SMA Webbox",
+
 }
