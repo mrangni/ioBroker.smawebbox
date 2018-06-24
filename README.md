@@ -1,4 +1,4 @@
-![Logo](admin/template.png)
+![Logo](admin/smawebbox.png)
 # ioBroker.smawebbox
 =================
 
@@ -10,7 +10,7 @@ This adapter is for the ethernet version of the SMA Webbox.
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2018 @@Author@@ <@@email@@>
+Copyright (c) 2018 Markus Rangnick <m.rangnick@me.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
