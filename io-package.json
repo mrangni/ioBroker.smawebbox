@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "smawebbox",
-        "version": "0.0.1",
+        "version": "0.0.3",
         "news": {
             	"0.0.3": {
 			"en": "start config",
