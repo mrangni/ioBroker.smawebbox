@@ -3,6 +3,8 @@
 =================
 
 This adapter is for the ethernet version of the SMA Webbox.
+### 0.0.3
+* (mrangni) initial release - first try
 
 ### 0.0.1
 * (mrangni) initial release
